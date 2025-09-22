@@ -1,0 +1,1 @@
+torch, torchvision, numpy, scipy, scikit-learn, matplotlib, pillow
